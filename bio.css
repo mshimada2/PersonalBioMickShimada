@@ -1,0 +1,44 @@
+h1{
+
+background-color:yellow;
+text-align: center;
+font-size: 200%;
+
+}
+
+
+a.navigation:hover
+
+{
+
+color: red;
+
+
+}
+
+div.navi:hover
+
+{
+color: yellow;
+
+}
+
+body
+{
+  background-color: cyan;
+}
+.green{
+
+  color:green;
+  font-size: 150%;
+}
+
+.nice{
+
+  text-align: center;
+}
+
+.gra{
+
+text-align: center;
+}
